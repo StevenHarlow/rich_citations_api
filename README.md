@@ -8,7 +8,7 @@ Live version: http://api.richcitations.org/
 Installing
 ==========
 Requirements:
-`Ruby 2.1.2`,`bundler`
+`Ruby 2.1.5`,`bundler`
 
 ```
 $ cd rich_citations_api
